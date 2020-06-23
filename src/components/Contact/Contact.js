@@ -4,8 +4,8 @@ import "./ContactStyle.css";
 
 export default () => {
   return (
-    <Fade>
-      <section id="#contact" className="contact">
+    <section id="#contact" className="contact">
+      <Fade>
         <h1 className="title">Contact</h1>
         <p className="contact-greet">
           Let's connect. If you wish to grab a hold of me, I prefer messaging me
@@ -30,7 +30,7 @@ export default () => {
             <img src={require("../../assets/gmail.png")} alt="" href="gmail" />
           </li>
         </ul>
-      </section>
-    </Fade>
+      </Fade>
+    </section>
   );
 };
