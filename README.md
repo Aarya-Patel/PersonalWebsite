@@ -1,4 +1,4 @@
-Welcome to my personal webiste. You can find in more depth about who I am and what I have acheived.
+Welcome to my personal website. You can find in more depth about who I am and what I have acheived.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
