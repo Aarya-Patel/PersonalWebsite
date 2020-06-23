@@ -1,0 +1,42 @@
+:root {
+  --grey: rgb(245, 245, 245);
+  --dark-grey: rgb(35, 35, 35);
+  --offwhite: #f8f8f8;
+  --light-blue: #a3d4ff;
+  --blue: #2f81e0;
+  --green: #32b30e;
+}
+
+html {
+  font-size: 14px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Heebo", sans-serif;
+}
+
+.title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5em;
+  position: relative;
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 2em;
+}
+
+.title::after {
+  content: "";
+  display: block;
+  position: absolute;
+  background-color: var(--dark-grey);
+  width: 3em;
+  height: 2px;
+  bottom: -0.25em;
+  right: calc(50% - 1.5em);
+}
+
+.accent {
+  color: var(--blue);
+}

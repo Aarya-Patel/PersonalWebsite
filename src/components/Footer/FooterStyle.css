@@ -1,0 +1,12 @@
+.footer > p {
+  display: flex;
+  justify-content: center;
+  padding: 5em 2em;
+  margin: 0;
+  align-items: center;
+  background-color: var(--grey);
+}
+
+.footer > p > img {
+  height: 2em;
+}

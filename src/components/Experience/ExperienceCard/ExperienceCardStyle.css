@@ -1,0 +1,41 @@
+.experience-pic {
+  max-width: 18em;
+  min-width: 18em;
+  max-height: 18em;
+  min-height: 18em;
+  margin: 0 auto;
+  border-radius: 10%;
+  text-align: center;
+}
+
+.experience-text {
+  margin: 2em;
+}
+
+.experience-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 4em;
+  margin: 2em 4em;
+}
+
+.experience-wrapper:last-child {
+  margin-bottom: 0;
+}
+
+.exp-title {
+  margin: 0px 0px 3px 0px;
+  color: var(--green);
+}
+
+.exp-position {
+  margin: 0px 0px 3px 0px;
+  color: var(--blue);
+}
+
+.exp-location {
+  margin: 0px 0px 3px 0px;
+  font-weight: bold;
+}

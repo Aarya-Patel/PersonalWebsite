@@ -1,0 +1,38 @@
+.contact {
+  background-color: var(--grey);
+}
+
+.link-flexbox {
+  display: flex;
+  padding: 0 0 3em 0;
+  margin: 0;
+  flex-direction: row;
+  justify-content: center;
+  /* align-content: center; */
+}
+
+.link {
+  opacity: 1;
+  text-decoration: none;
+  list-style-type: none;
+  flex-basis: 10%;
+  box-sizing: border-box;
+  margin: 1em;
+  transition: ease-in-out 0.25s;
+}
+
+.link:hover {
+  transform: scale(1.15);
+}
+
+.link-flexbox > li > img {
+  width: 8em;
+  height: 8em;
+}
+
+.contact-greet {
+  color: var(--dark-grey);
+  line-height: 2em;
+  margin: 0 4em;
+  text-align: center;
+}
