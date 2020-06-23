@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.2539a82f.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.cad5dc21.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.cad5dc21.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.b2dd1bbe.js",
+    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.b2dd1bbe.js.map",
+    "static/js/2.208d799b.chunk.js": "/PersonalWebsite/static/js/2.208d799b.chunk.js",
+    "static/js/2.208d799b.chunk.js.map": "/PersonalWebsite/static/js/2.208d799b.chunk.js.map",
+    "index.html": "/PersonalWebsite/index.html",
+    "precache-manifest.57c1309f639c49402d7fc1b44e54e796.js": "/PersonalWebsite/precache-manifest.57c1309f639c49402d7fc1b44e54e796.js",
+    "service-worker.js": "/PersonalWebsite/service-worker.js",
+    "static/css/main.2539a82f.chunk.css.map": "/PersonalWebsite/static/css/main.2539a82f.chunk.css.map",
+    "static/js/2.208d799b.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.208d799b.chunk.js.LICENSE.txt",
+    "static/media/AaryaPatel-Resume.pdf": "/PersonalWebsite/static/media/AaryaPatel-Resume.dbafb5f7.pdf",
+    "static/media/GitHub-Mark1.png": "/PersonalWebsite/static/media/GitHub-Mark1.f657e220.png",
+    "static/media/baps.jpg": "/PersonalWebsite/static/media/baps.a6d8c31c.jpg",
+    "static/media/gmail.png": "/PersonalWebsite/static/media/gmail.bbfa0bd3.png",
+    "static/media/logo.svg": "/PersonalWebsite/static/media/logo.5d5d9eef.svg",
+    "static/media/profile.jpg": "/PersonalWebsite/static/media/profile.f23295ce.jpg",
+    "static/media/svgbottom.svg": "/PersonalWebsite/static/media/svgbottom.f346eac1.svg",
+    "static/media/svgleft.svg": "/PersonalWebsite/static/media/svgleft.7bc77f22.svg",
+    "static/media/svgright.svg": "/PersonalWebsite/static/media/svgright.85f1769c.svg",
+    "static/media/toronto.jpg": "/PersonalWebsite/static/media/toronto.09951e5f.jpg",
+    "static/media/uoft.jpg": "/PersonalWebsite/static/media/uoft.d5a245c9.jpg",
+    "static/media/wonder.png": "/PersonalWebsite/static/media/wonder.e1ab1228.png",
+    "static/media/wonderland.png": "/PersonalWebsite/static/media/wonderland.fd32b34b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2dd1bbe.js",
+    "static/js/2.208d799b.chunk.js",
+    "static/css/main.2539a82f.chunk.css",
+    "static/js/main.cad5dc21.chunk.js"
+  ]
+}
