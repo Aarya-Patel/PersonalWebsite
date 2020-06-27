@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.dc375588.chunk.css",
-    "main.js": "/PersonalWebsite/static/js/main.9e0b6d37.chunk.js",
-    "main.js.map": "/PersonalWebsite/static/js/main.9e0b6d37.chunk.js.map",
+    "main.css": "/PersonalWebsite/static/css/main.8228d4db.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.f3ec5dc1.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.f3ec5dc1.chunk.js.map",
     "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.b2dd1bbe.js",
     "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.b2dd1bbe.js.map",
-    "static/js/2.22fbaa0b.chunk.js": "/PersonalWebsite/static/js/2.22fbaa0b.chunk.js",
-    "static/js/2.22fbaa0b.chunk.js.map": "/PersonalWebsite/static/js/2.22fbaa0b.chunk.js.map",
+    "static/js/2.c65274a2.chunk.js": "/PersonalWebsite/static/js/2.c65274a2.chunk.js",
+    "static/js/2.c65274a2.chunk.js.map": "/PersonalWebsite/static/js/2.c65274a2.chunk.js.map",
     "index.html": "/PersonalWebsite/index.html",
-    "precache-manifest.acdab085279218abb8e1c424b2dc1352.js": "/PersonalWebsite/precache-manifest.acdab085279218abb8e1c424b2dc1352.js",
+    "precache-manifest.3beaab168931423b8b6c75caba3430dc.js": "/PersonalWebsite/precache-manifest.3beaab168931423b8b6c75caba3430dc.js",
     "service-worker.js": "/PersonalWebsite/service-worker.js",
-    "static/css/main.dc375588.chunk.css.map": "/PersonalWebsite/static/css/main.dc375588.chunk.css.map",
-    "static/js/2.22fbaa0b.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.22fbaa0b.chunk.js.LICENSE.txt",
+    "static/css/main.8228d4db.chunk.css.map": "/PersonalWebsite/static/css/main.8228d4db.chunk.css.map",
+    "static/js/2.c65274a2.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.c65274a2.chunk.js.LICENSE.txt",
     "static/media/AaryaPatel-Resume.pdf": "/PersonalWebsite/static/media/AaryaPatel-Resume.dbafb5f7.pdf",
     "static/media/GitHub-Mark1.png": "/PersonalWebsite/static/media/GitHub-Mark1.f657e220.png",
     "static/media/baps.jpg": "/PersonalWebsite/static/media/baps.a6d8c31c.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b2dd1bbe.js",
-    "static/js/2.22fbaa0b.chunk.js",
-    "static/css/main.dc375588.chunk.css",
-    "static/js/main.9e0b6d37.chunk.js"
+    "static/js/2.c65274a2.chunk.js",
+    "static/css/main.8228d4db.chunk.css",
+    "static/js/main.f3ec5dc1.chunk.js"
   ]
 }
