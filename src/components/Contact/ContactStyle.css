@@ -26,8 +26,10 @@
 }
 
 .link-flexbox > li > img {
-  width: 8em;
-  height: 8em;
+  /* width: 8em; */
+  /* height: 8em; */
+  width: 6em;
+  height: 6em;
 }
 
 .contact-greet {

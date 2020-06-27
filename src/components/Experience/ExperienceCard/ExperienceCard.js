@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import "./ExperienceCardStyle.css";
-import { Fade } from "react-reveal";
+import { Fade } from "react-awesome-reveal";
 
 const ExperienceCard = ({ image, title, positionDate, location, text }) => {
   return (

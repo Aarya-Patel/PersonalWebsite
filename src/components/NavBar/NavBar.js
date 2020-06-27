@@ -10,7 +10,7 @@ export default () => {
         Profile
       </Link>
       <Link smooth to="#experiences" className="nav-item">
-        Experiences
+        Experience
       </Link>
       <Link smooth to="#work" className="nav-item">
         Work

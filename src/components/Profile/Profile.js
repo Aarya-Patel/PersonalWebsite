@@ -1,6 +1,6 @@
 import React from "react";
 import "./ProfileStyles.css";
-import { Fade } from "react-reveal";
+import { Fade } from "react-awesome-reveal";
 import profilePic from "../../assets/profile.jpg";
 
 export default () => {

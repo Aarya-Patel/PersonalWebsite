@@ -5,7 +5,7 @@ import "./HeroStyles.css";
 export default () => {
   return (
     <section className="hero-box">
-      <canvas></canvas>
+      <canvas width="100vw" height="100vh"></canvas>
       <div className="hero-content">
         <h3 className="hero-text">
           Hello! I'm <span className="accent">Aarya</span>.

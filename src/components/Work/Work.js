@@ -1,6 +1,6 @@
 import React from "react";
 import WorkCard from "./WorkCard/WorkCard.js";
-import { Fade } from "react-reveal";
+import { Fade } from "react-awesome-reveal";
 import "./WorkStyle.css";
 
 const workData = [

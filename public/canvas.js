@@ -2,8 +2,8 @@ window.addEventListener("DOMContentLoaded", () => {
   let canvas = document.querySelector("canvas");
   let c = canvas.getContext("2d");
 
-  canvas.height = window.innerHeight;
-  canvas.width = window.innerWidth;
+  // canvas.height = window.innerHeight;
+  // canvas.width = window.innerWidth;
 
   class Circle {
     constructor(x, y) {
@@ -64,6 +64,20 @@ window.addEventListener("DOMContentLoaded", () => {
     );
   }
 
+  function resizeCanvasToDisplaySize(canvas) {
+    // look up the size the canvas is being displayed
+    const width = canvas.clientWidth;
+    const height = canvas.clientHeight;
+
+    // If it's resolution does not match change it
+    if (canvas.width !== width || canvas.height !== height) {
+      canvas.width = width;
+      canvas.height = height;
+      return true;
+    }
+
+    return false;
+  }
   function drawLines() {
     var temp = [];
     c.beginPath();
@@ -80,6 +94,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
   function animate() {
     requestAnimationFrame(animate);
+    resizeCanvasToDisplaySize(canvas);
     clearScreen();
     drawLines();
     for (var i = 0; i < circle.length; i++) {

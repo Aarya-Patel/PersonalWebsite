@@ -1,7 +1,7 @@
 .content-container {
   color: var(--dark-grey);
   box-sizing: border-box;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .content-container > section {
