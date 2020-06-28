@@ -5,7 +5,7 @@ import "./WorkCardStyle.css";
 
 const WorkCard = ({ image, title, description, ghLink, siteLink }) => {
   return (
-    <Fade>
+    <Fade triggerOnce>
       <div className="card">
         <div className="picture-wrapper">
           <img
@@ -17,9 +17,31 @@ const WorkCard = ({ image, title, description, ghLink, siteLink }) => {
         <div className="caption-wrapper">
           <h3 className="caption-title">{title}</h3>
           <p className="work-description">{description}</p>
-          <a className="btn-github" src={ghLink} href="gh-link">
-            View in Github
-          </a>
+          {ghLink ? (
+            <a
+              className="btn-work"
+              href={ghLink}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View Source
+            </a>
+          ) : (
+            ""
+          )}
+
+          {siteLink ? (
+            <a
+              className="btn-work"
+              href={siteLink}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Visit Site
+            </a>
+          ) : (
+            ""
+          )}
         </div>
       </div>
     </Fade>

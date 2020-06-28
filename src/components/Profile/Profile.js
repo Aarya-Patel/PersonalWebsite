@@ -5,7 +5,7 @@ import profilePic from "../../assets/profile.jpg";
 
 export default () => {
   return (
-    <Fade>
+    <Fade triggerOnce>
       <section id="#profile" className="profile">
         <h1 className="title greeting">Hey, I'm Aarya Patel!</h1>
         <div className="profile-flexbox">

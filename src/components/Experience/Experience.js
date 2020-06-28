@@ -41,7 +41,7 @@ const experienceData = [
 export default () => {
   return (
     <section id="#experiences" className="experiences">
-      <Fade>
+      <Fade triggerOnce>
         <h1 className="title">Just some things I do</h1>
       </Fade>
       {experienceData.map((data, index) => {

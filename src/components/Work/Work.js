@@ -5,35 +5,35 @@ import "./WorkStyle.css";
 
 const workData = [
   {
-    image: "uoft.jpg",
+    image: "rapstrack.png",
     title: "RapsTrack",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidun accusantium minus sed fuga perspiciatis eligendi. Ad, ab pariatur possimus cumque, magnam modi error dolorum cupiditate eius, odio ullam quos autem.",
-    ghLink: "",
+    ghLink: "https://github.com/Aarya-Patel/RapsTrack",
     siteLink: "",
   },
   {
-    image: "uoft.jpg",
+    image: "reminder.png",
     title: "Reminder",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidun accusantium minus sed fuga perspiciatis eligendi. Ad, ab pariatur possimus cumque, magnam modi error dolorum cupiditate eius, odio ullam quos autem.",
     ghLink: "",
-    siteLink: "",
+    siteLink: "https://aarya-patel.github.io/Reminder/",
   },
   {
-    image: "uoft.jpg",
+    image: "nasa_apod.png",
     title: "Nasa APOD",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidun accusantium minus sed fuga perspiciatis eligendi. Ad, ab pariatur possimus cumque, magnam modi error dolorum cupiditate eius, odio ullam quos autem.",
     ghLink: "",
-    siteLink: "",
+    siteLink: "https://aarya-patel.github.io/NasaAPOD/",
   },
   {
-    image: "uoft.jpg",
+    image: "calender.png",
     title: "Calender",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidun accusantium minus sed fuga perspiciatis eligendi. Ad, ab pariatur possimus cumque, magnam modi error dolorum cupiditate eius, odio ullam quos autem.",
-    ghLink: "",
+    ghLink: "https://github.com/Aarya-Patel/Calender",
     siteLink: "",
   },
 ];
@@ -41,7 +41,7 @@ const workData = [
 export default () => {
   return (
     <section id="#work" className="work">
-      <Fade>
+      <Fade triggerOnce>
         <h1 className="title">This is my work</h1>
       </Fade>
 

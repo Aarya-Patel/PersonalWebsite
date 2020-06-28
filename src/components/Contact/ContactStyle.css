@@ -25,7 +25,7 @@
   transform: scale(1.15);
 }
 
-.link-flexbox > li > img {
+.link-img {
   /* width: 8em; */
   /* height: 8em; */
   width: 6em;

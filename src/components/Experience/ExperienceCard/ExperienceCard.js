@@ -5,7 +5,7 @@ import { Fade } from "react-awesome-reveal";
 
 const ExperienceCard = ({ image, title, positionDate, location, text }) => {
   return (
-    <Fade>
+    <Fade triggerOnce>
       <div className="experience-wrapper">
         <img
           alt=""
