@@ -10,8 +10,9 @@ export default () => {
         <p className="contact-greet">
           Let's connect. If you wish to grab a hold of me, I prefer messaging me
           on LinkedIn. <br />
-          You can also email me at aarya.patel06@gmail.com or give me a call at
-          647-569-5400.
+          You can also email me at{" "}
+          <span className="accent">aarya.patel06@gmail.com</span> or give me a
+          call at <span className="accent">647-569-5400</span>.
         </p>
         <ul className="link-flexbox">
           <li className="link link-linkedin">

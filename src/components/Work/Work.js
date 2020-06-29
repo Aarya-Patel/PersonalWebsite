@@ -8,33 +8,42 @@ const workData = [
     image: "rapstrack.png",
     title: "RapsTrack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidun accusantium minus sed fuga perspiciatis eligendi. Ad, ab pariatur possimus cumque, magnam modi error dolorum cupiditate eius, odio ullam quos autem.",
+      "RapsTrack is a web application that allows Toronto Raptors fans to keep up with the team. " +
+      "I created a webscraper using Python & BeautifulSoup to scrape relevant data and stored it as JSON which allowed for features like searching and filtering. " +
+      "I developed the front-end and server-side using Node.js and Express.js.",
     ghLink: "https://github.com/Aarya-Patel/RapsTrack",
     siteLink: "",
+    accentedWords: ["Python", "BeautifulSoup", "Node.js", "Express.js."],
   },
   {
     image: "reminder.png",
     title: "Reminder",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidun accusantium minus sed fuga perspiciatis eligendi. Ad, ab pariatur possimus cumque, magnam modi error dolorum cupiditate eius, odio ullam quos autem.",
-    ghLink: "",
+      "Built a Reminder App from scratch entirely with React and optimized for desktop and mobile views. Added functionality such as: completing tasks, starring, deleting and filtering through the use of state. Also utilized local storage to store tasks to allow for continued use after closing the browser.",
+    ghLink: "https://github.com/Aarya-Patel/Reminder",
     siteLink: "https://aarya-patel.github.io/Reminder/",
+    accentedWords: ["React", "local", "storage"],
   },
   {
     image: "nasa_apod.png",
     title: "Nasa APOD",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidun accusantium minus sed fuga perspiciatis eligendi. Ad, ab pariatur possimus cumque, magnam modi error dolorum cupiditate eius, odio ullam quos autem.",
-    ghLink: "",
+      "Incorporated NASA's Astronomy Picture of the Day (APOD) API to create a web application that allows user to learn more about the universe. " +
+      "Used React to build the application and optimized it for desktop and mobile views. " +
+      "Facilitated user API requests using the fetch API and using that data to update specific components.",
+    ghLink: "https://github.com/Aarya-Patel/NasaAPOD",
     siteLink: "https://aarya-patel.github.io/NasaAPOD/",
+    accentedWords: ["React", "API", "requests", "fetch"],
   },
   {
     image: "calender.png",
     title: "Calender",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidun accusantium minus sed fuga perspiciatis eligendi. Ad, ab pariatur possimus cumque, magnam modi error dolorum cupiditate eius, odio ullam quos autem.",
+      "My team worked on a calender application created using Java. Focused on writing sustainable code by implementing various software design patterns. Incoporated MySQL to store user information to allow for continued use after exiting the app. " +
+      "Implemented multithreading to alert notifications synonymously.",
     ghLink: "https://github.com/Aarya-Patel/Calender",
     siteLink: "",
+    accentedWords: ["Java.", "MySQL", "multithreading"],
   },
 ];
 

@@ -10,7 +10,8 @@ const experienceData = [
     positionDate: "Youth Coordinator, Sept 2018 - Present",
     location: "Toronto, ON",
     text:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Na ipsum voluptatem nihil iusto fugiat ratione delectus hic quia, qui maxime quisquam eaque, amet ea distinctio reiciendis voluptates tempora architecto laborum!",
+      "On a weekly basis, BAPS hosts several sessions centerd around a wide range of youths to help connect them to their religious roots. Myself alongside fellow coordinators formulate a catered schedule to empower youths by delivering creative presentations and leading engaging activities. " +
+      "I helped foster a sense of community by creating an environment of inclusivity and learning through interacting with the youth.",
   },
   {
     image: "wonderland.png",
@@ -18,7 +19,9 @@ const experienceData = [
     positionDate: "Lifeguard, Mar 2018 - Aug 2018",
     location: "Vaughan, ON",
     text:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Na ipsum voluptatem nihil iusto fugiat ratione delectus hic quia, qui maxime quisquam eaque, amet ea distinctio reiciendis voluptates tempora architecto laborum!",
+      "My team and I ensured that the park's daily operations were up and running as efficiently and smoothly as possible. " +
+      "I helped prioritize guest safety by working alongside crew members to safely operate and manage commodities. " +
+      "I learned how to work in a team environment and how to respond quickly to any given scenario through following protocols.",
   },
   {
     image: "toronto.jpg",
@@ -26,7 +29,9 @@ const experienceData = [
     positionDate: "Youth Summer Camp Volunteer, July 2017 - Aug 2017",
     location: "Toronto, ON",
     text:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Na ipsum voluptatem nihil iusto fugiat ratione delectus hic quia, qui maxime quisquam eaque, amet ea distinctio reiciendis voluptates tempora architecto laborum!",
+      "Worked alongside camp counsellors to help organize and maintain daily camp activities. " +
+      "Responsible for leading activities in an engaging manner that captivated the children’s attention. " +
+      "Promoted a safe environment optimal for entertainment through supervision.",
   },
   {
     image: "uoft.jpg",
@@ -34,7 +39,9 @@ const experienceData = [
     positionDate: "B.S. in Computer Science, Sept 2019 - May 2023",
     location: "Toronto, ON",
     text:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Na ipsum voluptatem nihil iusto fugiat ratione delectus hic quia, qui maxime quisquam eaque, amet ea distinctio reiciendis voluptates tempora architecto laborum!",
+      "University of Toronto presents an atmosphere of innovation and diversity of opportunity. " +
+      "The culture at UofT has and continues to push me to expand and challenge me to become a better individual. " +
+      "Relevant Coursework include: Software Design (Java), Intro to Computer Science (Python), Reasoning for Computer Science.",
   },
 ];
 

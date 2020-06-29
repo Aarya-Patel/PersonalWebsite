@@ -17,12 +17,22 @@ export default () => {
               href="Aarya Patel"
             />
           </div>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi quae
-            et earum perspiciatis adipisci quisquam, ipsum placeat tenetur
-            laudantium consectetur. Magnam ex perferendis doloremque obcaecati
-            excepturi molestias. Cumque, suscipit perferendis?
-          </p>
+          <div className="profile-text">
+            <p>
+              I am currently a Computer Science Specialist student at the
+              University of Toronto with a passion for web-development. On a
+              weekly basis, you can find me: working on personal projects,
+              cooking meals, preparing for other responsibilities or playing
+              video games.
+            </p>
+            <p>
+              I'm an aspiring young software developer who loves to build
+              visually appealing web applications. I am experienced in front-end
+              web development mainly using frameworks like React. My curiousity
+              is the driving factor that pushes me to explore the vast field of
+              web-development by focusing on learning and refining my skills.
+            </p>
+          </div>
         </div>
       </section>
     </Fade>
