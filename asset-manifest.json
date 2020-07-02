@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.582f9095.chunk.css",
+    "main.css": "/PersonalWebsite/static/css/main.6ef0274a.chunk.css",
     "main.js": "/PersonalWebsite/static/js/main.3920e873.chunk.js",
     "main.js.map": "/PersonalWebsite/static/js/main.3920e873.chunk.js.map",
     "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.b2dd1bbe.js",
@@ -8,9 +8,9 @@
     "static/js/2.a0aff98c.chunk.js": "/PersonalWebsite/static/js/2.a0aff98c.chunk.js",
     "static/js/2.a0aff98c.chunk.js.map": "/PersonalWebsite/static/js/2.a0aff98c.chunk.js.map",
     "index.html": "/PersonalWebsite/index.html",
-    "precache-manifest.fcef4ad3e55bc959cf19a3c3597ba9df.js": "/PersonalWebsite/precache-manifest.fcef4ad3e55bc959cf19a3c3597ba9df.js",
+    "precache-manifest.a55d3f71d27c7674f48d7426053d6893.js": "/PersonalWebsite/precache-manifest.a55d3f71d27c7674f48d7426053d6893.js",
     "service-worker.js": "/PersonalWebsite/service-worker.js",
-    "static/css/main.582f9095.chunk.css.map": "/PersonalWebsite/static/css/main.582f9095.chunk.css.map",
+    "static/css/main.6ef0274a.chunk.css.map": "/PersonalWebsite/static/css/main.6ef0274a.chunk.css.map",
     "static/js/2.a0aff98c.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.a0aff98c.chunk.js.LICENSE.txt",
     "static/media/AaryaPatel-Resume.pdf": "/PersonalWebsite/static/media/AaryaPatel-Resume.5fc4ea5f.pdf",
     "static/media/GitHub-Mark1.png": "/PersonalWebsite/static/media/GitHub-Mark1.f657e220.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.b2dd1bbe.js",
     "static/js/2.a0aff98c.chunk.js",
-    "static/css/main.582f9095.chunk.css",
+    "static/css/main.6ef0274a.chunk.css",
     "static/js/main.3920e873.chunk.js"
   ]
 }
