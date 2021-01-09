@@ -5,6 +5,14 @@ import "./ExperienceStyles.css";
 
 const experienceData = [
   {
+    image: "icube.jpg",
+    title: "ICUBE UTM",
+    positionDate: "Web Developer, Sept 2020 - Present",
+    location: "Mississuaga, ON",
+    text:
+      "Over the course of 4 months, I have been working as a part-time web developer at ICUBE UTM. I collaborate with various clients and UI\\UX designers to lay out the implementation of web pages and plugins. I primarily use HTML, CSS and PHP alongside WordPress to help create webpages, publish different endpoints and manage the client’s website.",
+  },
+  {
     image: "baps.jpg",
     title: "BAPS",
     positionDate: "Youth Coordinator, Sept 2018 - Present",

@@ -5,15 +5,13 @@ import "./WorkStyle.css";
 
 const workData = [
   {
-    image: "rapstrack.png",
-    title: "RapsTrack",
+    image: "covid19tracker.png",
+    title: "Covid-19 Tracker",
     description:
-      "RapsTrack is a web application that allows Toronto Raptors fans to keep up with the team. " +
-      "I created a webscraper using Python & BeautifulSoup to scrape relevant data and stored it as JSON which allowed for features like searching and filtering. " +
-      "I developed the front-end and server-side using Node.js and Express.js.",
-    ghLink: "https://github.com/Aarya-Patel/RapsTrack",
-    siteLink: "",
-    accentedWords: ["Python", "BeautifulSoup", "Node.js", "Express.js."],
+      "Built a Covid-19 Tracker web application that displays data fetched from third party APIs. Created an informative dashboard to better interpret different data using Chart.js and Material UI.",
+    ghLink: "https://github.com/Aarya-Patel/Covid19Tracker",
+    siteLink: "https://aarya-patel.github.io/Covid19Tracker/",
+    accentedWords: ["Chart.js", "Material UI."],
   },
   {
     image: "reminder.png",
@@ -23,6 +21,17 @@ const workData = [
     ghLink: "https://github.com/Aarya-Patel/Reminder",
     siteLink: "https://aarya-patel.github.io/Reminder/",
     accentedWords: ["React", "local", "storage"],
+  },
+  {
+    image: "rapstrack.png",
+    title: "RapsTrack",
+    description:
+      "RapsTrack is a web application that allows Toronto Raptors fans to keep up with the team. " +
+      "I created a webscraper using Python & BeautifulSoup to scrape relevant data and stored it as JSON which allowed for features like searching and filtering. " +
+      "I developed the front-end and server-side using Node.js and Express.js.",
+    ghLink: "https://github.com/Aarya-Patel/RapsTrack",
+    siteLink: "",
+    accentedWords: ["Python", "BeautifulSoup", "Node.js", "Express.js."],
   },
   {
     image: "nasa_apod.png",
