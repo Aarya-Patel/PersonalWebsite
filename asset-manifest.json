@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/PersonalWebsite/static/css/main.6ef0274a.chunk.css",
-    "main.js": "/PersonalWebsite/static/js/main.9c3943d1.chunk.js",
-    "main.js.map": "/PersonalWebsite/static/js/main.9c3943d1.chunk.js.map",
+    "main.js": "/PersonalWebsite/static/js/main.b8645b40.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.b8645b40.chunk.js.map",
     "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.b2dd1bbe.js",
     "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.b2dd1bbe.js.map",
-    "static/js/2.a0aff98c.chunk.js": "/PersonalWebsite/static/js/2.a0aff98c.chunk.js",
-    "static/js/2.a0aff98c.chunk.js.map": "/PersonalWebsite/static/js/2.a0aff98c.chunk.js.map",
+    "static/js/2.6336ae89.chunk.js": "/PersonalWebsite/static/js/2.6336ae89.chunk.js",
+    "static/js/2.6336ae89.chunk.js.map": "/PersonalWebsite/static/js/2.6336ae89.chunk.js.map",
     "index.html": "/PersonalWebsite/index.html",
-    "precache-manifest.d7cefb656b4f2d5d5fd5922413d953e4.js": "/PersonalWebsite/precache-manifest.d7cefb656b4f2d5d5fd5922413d953e4.js",
+    "precache-manifest.d9aafa8c80f718b9dbc9557b2afbafbd.js": "/PersonalWebsite/precache-manifest.d9aafa8c80f718b9dbc9557b2afbafbd.js",
     "service-worker.js": "/PersonalWebsite/service-worker.js",
     "static/css/main.6ef0274a.chunk.css.map": "/PersonalWebsite/static/css/main.6ef0274a.chunk.css.map",
-    "static/js/2.a0aff98c.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.a0aff98c.chunk.js.LICENSE.txt",
-    "static/media/AaryaPatel-Resume.pdf": "/PersonalWebsite/static/media/AaryaPatel-Resume.030ba0f2.pdf",
+    "static/js/2.6336ae89.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.6336ae89.chunk.js.LICENSE.txt",
+    "static/media/AaryaPatel-Resume.pdf": "/PersonalWebsite/static/media/AaryaPatel-Resume.22c96d01.pdf",
     "static/media/GitHub-Mark1.png": "/PersonalWebsite/static/media/GitHub-Mark1.f657e220.png",
     "static/media/baps.jpg": "/PersonalWebsite/static/media/baps.a6d8c31c.jpg",
     "static/media/calender.png": "/PersonalWebsite/static/media/calender.693fdc19.png",
+    "static/media/covid19tracker.png": "/PersonalWebsite/static/media/covid19tracker.3d4d9c3f.png",
     "static/media/logo.svg": "/PersonalWebsite/static/media/logo.5d5d9eef.svg",
     "static/media/nasa_apod.png": "/PersonalWebsite/static/media/nasa_apod.911c3b6b.png",
     "static/media/profile.jpg": "/PersonalWebsite/static/media/profile.f23295ce.jpg",
@@ -30,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b2dd1bbe.js",
-    "static/js/2.a0aff98c.chunk.js",
+    "static/js/2.6336ae89.chunk.js",
     "static/css/main.6ef0274a.chunk.css",
-    "static/js/main.9c3943d1.chunk.js"
+    "static/js/main.b8645b40.chunk.js"
   ]
 }

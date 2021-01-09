@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "676f19e46ccf81d144b372f5cbd38110",
+    "revision": "d527ad4649aed85452361ee726580140",
     "url": "/PersonalWebsite/index.html"
   },
   {
-    "revision": "3c5778cd718547dec13e",
+    "revision": "de6130db0ca0810cdf7a",
     "url": "/PersonalWebsite/static/css/main.6ef0274a.chunk.css"
   },
   {
-    "revision": "bc1bfa444a4905b9c665",
-    "url": "/PersonalWebsite/static/js/2.a0aff98c.chunk.js"
+    "revision": "b095807fddd396b52b0c",
+    "url": "/PersonalWebsite/static/js/2.6336ae89.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/PersonalWebsite/static/js/2.a0aff98c.chunk.js.LICENSE.txt"
+    "url": "/PersonalWebsite/static/js/2.6336ae89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c5778cd718547dec13e",
-    "url": "/PersonalWebsite/static/js/main.9c3943d1.chunk.js"
+    "revision": "de6130db0ca0810cdf7a",
+    "url": "/PersonalWebsite/static/js/main.b8645b40.chunk.js"
   },
   {
     "revision": "05a2b04fe66c16cd332d",
     "url": "/PersonalWebsite/static/js/runtime-main.b2dd1bbe.js"
   },
   {
-    "revision": "030ba0f28b4d49470c36df3556a72f56",
-    "url": "/PersonalWebsite/static/media/AaryaPatel-Resume.030ba0f2.pdf"
+    "revision": "22c96d01ddaf3a4d7906dc116af4df8f",
+    "url": "/PersonalWebsite/static/media/AaryaPatel-Resume.22c96d01.pdf"
   },
   {
     "revision": "f657e220c2bfd0378456d8d9d7ea5d9c",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "693fdc19677893e08d861e96bc970c7f",
     "url": "/PersonalWebsite/static/media/calender.693fdc19.png"
+  },
+  {
+    "revision": "3d4d9c3f6b7bf716ec65f696090d8552",
+    "url": "/PersonalWebsite/static/media/covid19tracker.3d4d9c3f.png"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
